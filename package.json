@@ -1,0 +1,26 @@
+{
+  "name": "weeks-jieao-webpack",
+  "version": "1.0.0",
+  "description": "practice once a week!",
+  "main": "index.js",
+  "scripts": {
+    "test": "build",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avner-Wang/weeks-jieao-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avner-Wang/weeks-jieao-webpack/issues"
+  },
+  "homepage": "https://github.com/Avner-Wang/weeks-jieao-webpack#readme",
+  "dependencies": {
+    "webpack": "^4.43.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
